@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App]
 
-To Start the projet  : 
+To Start the project  : 
 :: yarn install 
 :: yarn start
 
