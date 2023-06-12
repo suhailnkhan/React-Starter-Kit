@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App]
 
+To Start the projet  : 
+:: yarn install 
+:: yarn start
+
+
+
 ## Highlights
 
 In the project directory, I've created the best basic template which is ready to use. I've created the basic folder structure along with routes, layouts, views, @core, components, utils and API.
