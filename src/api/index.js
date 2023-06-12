@@ -11,7 +11,7 @@ const authLink = setContext((_, { headers }) => {
     credentials: "include",
     headers: {
       ...headers,
-      "X-RapidAPI-Key": "6b1f04ba20msh8ca206e3c369be7p1bd208jsnf46081eaf828",
+      "X-RapidAPI-Key": "Your Rapid Api Key",
 
     },
   };
